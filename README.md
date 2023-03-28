@@ -20,7 +20,7 @@ Carbon __L.O.D.I__ _stands for..._
 
 ✔️ __Offsetting__ global warming through simple suggestions and advices to reduce greenhouse gas emissions. 
 
-✔️ __Determining__ one’s impact on the environment.
+✔️ __Determining__ one’s environmental impact on the environment.
 
 ✔️ __Indexing__ the last seven days of data to let the user monitor his record, as well as providing some recommendations to minimize carbon footprint and emissions.
 
