@@ -58,8 +58,7 @@ Discuss the different types of recommendations the program can provide, such as 
 
 Explain how the program will incorporate gamification elements, such as achievement goals or social sharing, to motivate and incentivize users to make sustainable choices.
 Discuss the benefits of gamification and how it can encourage behavior change.
-
-
+ 
 #
 
 <h6 align="center">
@@ -71,3 +70,7 @@ Maranan, Deogenes
 
 </h6>
 
+#
+
+##### NOTE: This section is still in development and will improve as the the project progresses, instructions on how to use the program and the recommended version will be updated accordingly. 
+#
