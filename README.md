@@ -1,5 +1,4 @@
-
-<h1 align="center">CARBON L.O.D.I.<br><h4 align="center"><code>Tracking and Minimizing Your Environmental Impact</code></br></h4>  
+![Carbon L.O.D.I.](https://cdn.discordapp.com/attachments/1048446248274890764/1090420243232464987/AJKNDKANLD.png)
 <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/JaronLouise/Carbon_Footprint_calculator?style=for-the-badge">
 
 #
