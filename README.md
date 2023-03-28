@@ -42,8 +42,8 @@ Moreover, the program offers suggestions regarding carbon offsetting and emissio
 
 🧮 __Carbon Footprint Calculator__
 
-❎ Describes the carbon footprint calculator feature and calculates the user's carbon footprint based on their lifestyle.  
-❎ Explains how the program will account for various factors contributing to carbon emissions, such as transportation, energy consumption, and food choices.
+Describes the carbon footprint calculator feature and calculates the user's carbon footprint based on their lifestyle.  
+Explains how the program will account for various factors contributing to carbon emissions, such as transportation, energy consumption, and food choices.
 
 📈 __Data Input and Tracking__
 
