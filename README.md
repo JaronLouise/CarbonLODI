@@ -47,18 +47,18 @@ Explains how the program will account for various factors contributing to carbon
 
 📈 __Data Input and Tracking__
 
-❎ Discusses the data input and tracking feature and allows users to input data on their daily activities and lifestyle choices.  
-❎ Explains how the program will track a user's carbon footprint over time and provide insights into trends and changes.
+Discusses the data input and tracking feature and allows users to input data on their daily activities and lifestyle choices.  
+Explains how the program will track a user's carbon footprint over time and provide insights into trends and changes.
 
 👨‍🏫 __Personalized Recommendations__
 
-❎ Describes the personalized recommendations feature and provides customized suggestions to reduce a user's carbon footprint.  
-❎ Discusses the recommendations the program can provide, such as reducing meat consumption, using public transportation, or switching to renewable energy sources.
+Describes the personalized recommendations feature and provides customized suggestions to reduce a user's carbon footprint.  
+Discusses the recommendations the program can provide, such as reducing meat consumption, using public transportation, or switching to renewable energy sources.
 
 🎲 __Gamification Elements__
 
-❎ Explains the program's gamification elements, such as achievement goals or social sharing, to motivate and incentivize users to make sustainable choices.  
-❎ Discusses the benefits of gamification and how it can encourage positive behavior change towards reducing carbon footprint and emissions.
+Explains the program's gamification elements, such as achievement goals or social sharing, to motivate and incentivize users to make sustainable choices.  
+Discusses the benefits of gamification and how it can encourage positive behavior change towards reducing carbon footprint and emissions.
  
 #
 
