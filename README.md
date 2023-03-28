@@ -14,6 +14,7 @@ Maranan, Deogenes <br>
 
 <h3 align = "center">ABOUT</h3>
 
+Carbon __L.O.D.I__ _stands for..._
 ✔️ __Logging__ various factors to be considered for the calculation (transportation, energy usage, consumption habits, and housing).
 
 ✔️ __Offsetting__ global warming through simple suggestions and advices to reduce greenhouse gas emissions. 
