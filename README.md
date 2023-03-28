@@ -14,6 +14,9 @@ Carbon __L.O.D.I__ _stands for..._
 
 ✔️ __Indexing__ and monitoring carbon emissions.
 
+
+
+[![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/downloads/release/python-380/) Prescribed version
 #
 
 <h3 align = "center"> INRODUCTION </h3>
