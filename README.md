@@ -1,4 +1,3 @@
-![carbon emission effect](https://scontent.fmnl13-2.fna.fbcdn.net/v/t1.15752-9/338719343_572241908012947_6868678817606306124_n.png?_nc_cat=108&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeEzMv42La2Q-CUCIjyIgjMFmxK6gaX7kAabErqBpfuQBm1Z7gr7Ra1LDFznLieY8Nd30fnayupdUZwOyZ30yvY4&_nc_ohc=c_thFKyd28wAX_8y4M2&_nc_ht=scontent.fmnl13-2.fna&oh=03_AdSCPIdXHMVX0CbsQ0P8z4A_ftIcg9th7l8u1XFYZv_Zkg&oe=644AED94)
 
 <h1 align="center">CARBON L.O.D.I.<br><h4 align="center"><code>Tracking and Minimizing Your Environmental Impact</code></br></h4>
 
@@ -71,6 +70,8 @@ Briones, Sean Kyron <br>
 Maranan, Deogenes 
 
 </h6>
+
+![carbon emission effect](https://scontent.fmnl13-2.fna.fbcdn.net/v/t1.15752-9/338719343_572241908012947_6868678817606306124_n.png?_nc_cat=108&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeEzMv42La2Q-CUCIjyIgjMFmxK6gaX7kAabErqBpfuQBm1Z7gr7Ra1LDFznLieY8Nd30fnayupdUZwOyZ30yvY4&_nc_ohc=c_thFKyd28wAX_8y4M2&_nc_ht=scontent.fmnl13-2.fna&oh=03_AdSCPIdXHMVX0CbsQ0P8z4A_ftIcg9th7l8u1XFYZv_Zkg&oe=644AED94)
 
 #
 
