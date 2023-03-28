@@ -2,7 +2,7 @@
 
 #  
 
-<h3 align = "center">ABOUT</h3>
+<h3 align = "center">📌 ABOUT 📌</h3>
 
 Carbon __L.O.D.I__ _stands for..._
 
@@ -36,7 +36,7 @@ Moreover, the program offers suggestions regarding carbon offsetting and emissio
 
 #
 
-<h3 align="center">Program Features</h3>
+<h3 align="center">🚀 Program Features 🚀</h3>
 
 🧮 __Carbon Footprint Calculator__
 
