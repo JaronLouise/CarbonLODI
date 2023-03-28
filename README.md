@@ -76,7 +76,7 @@ Businesses seeking to reduce their carbon footprint
 Alimagno, Timothy Dave C. <br>
 Arquillo, Jaron Louise <br>
 Briones, Sean Kyron <br>
-Maranan, Deogenes <br>
+Maranan, Deogenes 
 
 </h6>
 
