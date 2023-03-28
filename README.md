@@ -65,8 +65,8 @@ Target Audience
 </h3>
 
 <p align="center">
-> 🙆‍♂️Individuals who want to make a positive impact<br>
-> 👩‍💼Businesses seeking to reduce their carbon footprint
+🙆‍♂️Individuals who want to make a positive impact<br>
+👩‍💼Businesses seeking to reduce their carbon footprint
 </p>
 
 #
