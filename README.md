@@ -47,8 +47,8 @@ Moreover, the program offers suggestions regarding carbon offsetting and emissio
 
 📈 __Data Input and Tracking__
 
-Discusses the data input and tracking feature and allows users to input data on their daily activities and lifestyle choices.  
-Explains how the program will track a user's carbon footprint over time and provide insights into trends and changes.
+* Discusses the data input and tracking feature and allows users to input data on their daily activities and lifestyle choices.  
+* Explains how the program will track a user's carbon footprint over time and provide insights into trends and changes.
 
 👨‍🏫 __Personalized Recommendations__
 
