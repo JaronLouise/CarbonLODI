@@ -6,7 +6,7 @@
 Alimagno, Timothy Dave C. <br>
 Arquillo, Jaron Louise <br>
 Briones, Sean Kyron <br>
-Maranan, Deogenes <br>
+Maranan, Deogenes Gregorio S.<br>
 
 </h6>
 
