@@ -67,9 +67,7 @@ ___ALIMAGNO__, Timothy Dave C.
 __ARQUILLO__, Jaron Louise   
 __BRIONES__, Sean Kyron   
 __MARANAN__, Deogenes_
-
 #
 
 ##### NOTE: This section is still in development and will improve as the the project progresses, instructions on how to use the program and the recommended version will be updated accordingly. 
-
 #
