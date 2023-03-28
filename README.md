@@ -1,4 +1,4 @@
-<h1 align="center">CARBON L.O.D.I.<br><h4 align="center">Tracking and Minimizing Your Environmental Impact</br></h3>
+<h1 align="center">CARBON L.O.D.I.<br><h4 align="center">Tracking and Minimizing Your Environmental Impact</br></h4>
 
 #  
 
