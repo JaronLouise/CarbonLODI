@@ -22,6 +22,8 @@ Maranan, Deogenes <br>
 
 ✔️ __Indexing__ the last seven days of data to let the user monitor his record, as well as providing some recommendations to minimize carbon footprint and emissions.
 
+#
+
 <h3 align = "center"> INRODUCTION </h3>
 
 <p align="justify">
