@@ -12,6 +12,16 @@ Maranan, Deogenes <br>
 
 #  
 
+<h3 align = "center">ABOUT</h3>
+
+✔️ __Logging__ various factors to be considered for the calculation (transportation, energy usage, consumption habits, and housing).
+
+✔️ __Offsetting__ global warming through simple suggestions and advices to reduce greenhouse gas emissions. 
+
+✔️ __Determining__ one’s impact on the environment.
+
+✔️ __Indexing__ the last seven days of data to let the user monitor his record, as well as providing some recommendations to minimize carbon footprint and emissions.
+
 <h3 align = "center"> INRODUCTION </h3>
 
 <p align="justify">
@@ -33,13 +43,4 @@ Moreover, the program offers suggestions regarding carbon offsetting and emissio
 
 #
 
-<h3 align = "center">L O D I</h3>
-
-✔️ __Logging__ various factors to be considered for the calculation (transportation, energy usage, consumption habits, and housing).
-
-✔️ __Offsetting__ global warming through simple suggestions and advices to reduce greenhouse gas emissions. 
-
-✔️ __Determining__ one’s impact on the environment.
-
-✔️ __Indexing__ the last seven days of data to let the user monitor his record, as well as providing some recommendations to minimize carbon footprint and emissions.
 
