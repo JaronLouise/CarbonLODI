@@ -59,15 +59,6 @@ Discuss the different types of recommendations the program can provide, such as 
 Explain how the program will incorporate gamification elements, such as achievement goals or social sharing, to motivate and incentivize users to make sustainable choices.
 Discuss the benefits of gamification and how it can encourage behavior change.
 
-#
-<h3 align="center">
-Target Audience
-</h3>
-
-<p align="center">
-🙆‍♂️Individuals who want to make a positive impact<br>
-👩‍💼Businesses seeking to reduce their carbon footprint
-</p>
 
 #
 
