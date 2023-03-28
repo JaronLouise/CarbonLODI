@@ -2,6 +2,7 @@
 <h1 align="center">CARBON L.O.D.I.<br><h4 align="center">Tracking and Minimizing Your Environmental Impact</br></h4>
 
 #  
+<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/JaronLouise/Carbon_Footprint_calculator?style=for-the-badge">
 
 <h3 align = "center">📌 ABOUT 📌</h3>
 
