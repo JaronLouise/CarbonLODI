@@ -62,12 +62,11 @@ Moreover, the program offers suggestions regarding carbon offsetting and emissio
  
 #
 
-__By:__
+📝 __Created By:__  
 _ALIMAGNO, Timothy Dave C.   
 ARQUILLO, Jaron Louise   
 BRIONES, Sean Kyron   
-MARANAN, Deogenes_   
-
+MARANAN, Deogenes_     
 
 #
 
