@@ -2,6 +2,8 @@
 
 #  
 
+<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/JaronLouise/Carbon_Footprint_calculator?style=for-the-badge">
+
 <h3 align = "center">📌 ABOUT 📌</h3>
 
 Carbon __L.O.D.I__ _stands for..._
