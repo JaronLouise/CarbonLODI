@@ -14,7 +14,7 @@
 
 #
 
-<h3 align = "center"><img src="https://i.pinimg.com/originals/ee/9d/de/ee9dde88ff4949f5984bf108bdeea0bc.gif" width="90px"/> ABOUT <img src="https://i.pinimg.com/originals/ee/9d/de/ee9dde88ff4949f5984bf108bdeea0bc.gif" width="90px"/></h3>
+<h3 align = "center"> ABOUT </h3>
 
 Carbon __L.O.D.I__ _stands for..._
 
@@ -48,7 +48,7 @@ Moreover, the program offers suggestions regarding carbon offsetting and emissio
 </p>
 
 
-<h3 align="center">🔋 SIGNIFICANCE 🔋</h3>
+<h3 align="center"><img src="https://i.pinimg.com/originals/ee/9d/de/ee9dde88ff4949f5984bf108bdeea0bc.gif" width="90px"/> SIGNIFICANCE <img src="https://i.pinimg.com/originals/ee/9d/de/ee9dde88ff4949f5984bf108bdeea0bc.gif" width="90px"/>   </h3>
 
 <p align="justify">
 This program redound to benefit the society and the world itself given that it tracks one's carbon footprint and suggesting ways on how to minimize their carbon footprint. It may be a simple thing to do but if every global citizen can contribute to caring for the environment, one's micro effort will have a marco effect to the world around us.
