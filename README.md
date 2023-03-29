@@ -9,7 +9,7 @@
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Django?color=red&logoColor=light%20red&style=for-the-badge) ![GitHub contributors](https://img.shields.io/github/contributors/JaronLouise/Carbon_LODI?color=blue&style=for-the-badge) ![GitHub last commit](https://img.shields.io/github/last-commit/JaronLouise/Carbon_LODI?style=for-the-badge)
 
 #
-<h3 align = "center"><img src="https://img.itch.zone/aW1nLzQ0Mjk1NzIuZ2lm/original/yrsV%2Bf.gif" width="20px"/> ABOUT 📌</h3>
+<h3 align = "center"><img src="https://i.pinimg.com/originals/ee/9d/de/ee9dde88ff4949f5984bf108bdeea0bc.gif" width="90px"/> ABOUT <img src="https://i.pinimg.com/originals/ee/9d/de/ee9dde88ff4949f5984bf108bdeea0bc.gif" width="90px"/></h3>
 
 Carbon __L.O.D.I__ _stands for..._
 
