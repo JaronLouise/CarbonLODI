@@ -1,5 +1,9 @@
 
 <p align="center">
+  <img src="https://64.media.tumblr.com/tumblr_lzarh7PmuV1qdnc4co1_500.gifv" width="400px"/>
+</p>
+
+<p align="center">
   <img src="https://cdn.discordapp.com/attachments/1048446248274890764/1090452906676854935/AJKNDKANLD-1.png?fbclid=IwAR375VbPkiX4xkE3Em5QXE7dgA0EyWxoHw4paKdktEC-3ppjOtD3rDQ3dE0" width="400px"/>
 </p>
 
