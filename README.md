@@ -48,7 +48,6 @@ Moreover, the program offers suggestions regarding carbon offsetting and emissio
 </p>
 
 #
-
 <h3 align="center"><img src="https://i.pinimg.com/originals/ee/9d/de/ee9dde88ff4949f5984bf108bdeea0bc.gif" width="90px"/> SIGNIFICANCE <img src="https://i.pinimg.com/originals/ee/9d/de/ee9dde88ff4949f5984bf108bdeea0bc.gif" width="90px"/>   </h3>
 
 <p align="justify">
