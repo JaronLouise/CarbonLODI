@@ -51,6 +51,7 @@ Moreover, the program offers suggestions regarding carbon offsetting and emissio
 <h3 align="center">🔋 SIGNIFICANCE 🔋</h3>
 This program redound to benefit the society and the world itself given that it tracks one's carbon footprint and suggesting ways on how to minimize their carbon footprint. It may be a simple thing to do but if every global citizen can contribute to caring for the environment, one's micro effort will have a marco effect to the world around us. 
 
+
 Students. This program will aim students to change their basic habits in their daily lives (such as eating less meat) to help make an impact.
 
 Institution. This program will help the institution to monitor, regulate, and control carbon footprint of each part of the institution.  
