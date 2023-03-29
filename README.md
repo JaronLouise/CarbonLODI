@@ -17,7 +17,7 @@
 
 <h3 align="center">📌 ABOUT 📌 </h3>
 
-Carbon __L.O.D.I__ _stands for..._
+Carbon __L.O.D.I__ _stands for:_
 
 ✔️ __Logging__ various factors to be considered for the calculation (transportation, energy usage, consumption habits, and housing).
 
@@ -32,15 +32,15 @@ Carbon __L.O.D.I__ _stands for..._
 <h3 align = "center">🖋 INRODUCTION 🖋</h3>
 
 <p align="justify">
-Climate change refers to long-term shifts in temperatures and weather patterns, mainly caused by human activities, is a distinctly alarming matter. As we live in a modern contemporary world, individuals, corporations, businesses, industries, and many more have ever-increasing greenhouse gasses. It has caused increased heat, drought, and insect outbreaks. Thus, reducing one's carbon footprint and learning how to mitigate our actions are ways to lessen carbon emissions.
+Climate change refers to long-term shifts in temperatures and weather patterns, mainly caused by human activities, and is a distinctly alarming matter. As we live in a modern contemporary world, individuals, corporations, businesses, industries, and many more have ever-increasing greenhouse gasses. It has caused increased heat, drought, and insect outbreaks. Thus, reducing one's carbon footprint and learning to mitigate our actions are ways to lessen carbon emissions.
 </p>
 
 <p align="justify">
-To do this, one must track their carbon footprint and determine where one can make changes to reduce their carbon emissions. People can better comprehend the effects of their everyday activities and lifestyle decisions to their environment by keeping track of their carbon footprint. They can then take action to lessen those effects. Thus, if we achieve a minimized carbon footprint, we firmly believe we can attain a more sustainable lifestyle alongside a more promising future.
+To do this, one must track their carbon footprint and determine where one can make changes to reduce their carbon emissions. People can better comprehend the effects of their everyday activities and lifestyle decisions on their environment by keeping track of their carbon footprint. They can then take action to lessen those effects. Thus, if we achieve a minimized carbon footprint, we firmly believe we can attain a more sustainable lifestyle alongside a more promising future.
 </p>
 
 <p align="justify">
-A carbon footprint calculator is measured in kilograms of carbon dioxide equivalents (CO2e). It contains standard features such as a calculator--which calculates the number of carbon emissions produced. The carbon footprint calculator requires the user to input their mode of transportation, energy usage, diet, consumption habits, and miscellaneous housing factors.
+A carbon footprint calculator is measured in kilograms of carbon dioxide equivalents (CO2e). It contains standard features such as a calculator--which calculates the number of carbon emissions produced. The carbon footprint calculator requires the user to input their mode of transportation, energy usage, diet, consumption habits, and various housing factors.
 </p>
 
 
@@ -52,13 +52,13 @@ Moreover, the program offers suggestions regarding carbon offsetting and emissio
 <h3 align="center">🔋 SIGNIFICANCE 🔋 </h3>
 
 <p align="justify">
-This program redound to benefit the society and the world itself given that it tracks one's carbon footprint and suggesting ways on how to minimize their carbon footprint. It may be a simple thing to do but if every global citizen can contribute to caring for the environment, one's micro effort will have a marco effect to the world around us.
+This program redounds to benefit society and the world itself, given that it tracks one's carbon footprint and suggests ways how to minimize their carbon footprint. It may be a simple thing to act upon, but if every global citizen can contribute to caring for the environment, one's micro effort will have a macro effect on the world around us.  
 
-__Students__. This program will aim students to change their basic habits in their daily lives (such as eating less meat) to help make an impact.
+This program will benefit the following: 
 
-__Institution__. This program will help the institution to monitor, regulate, and control carbon footprint of each part of the institution.  
-
-__Administration__. This program will help the administration to ensure emissions in a city or country do not exceed a designated carbon footprint limit.
+🧑‍🎓 __Students.__ This program will aim for students to change their primary habits in their daily lives (such as eating less meat) to help make an impact.  
+🏫 __Institution.__ This program will help the institution to monitor, regulate, and control the carbon footprint of each part of the institution.  
+🏢 __Administration.__ This program will help the administration to ensure emissions in a city or country do not exceed a designated carbon footprint limit.  
 
 </p>
 
@@ -78,7 +78,7 @@ __Administration__. This program will help the administration to ensure emission
 
 👨‍🏫 __Personalized Recommendations__
 
-* Describes the personalized recommendations feature and provides customized suggestions to reduce a user's carbon footprint.  
+* Describes the personalized recommendations feature and provides customized suggestions to reduce the user's carbon footprint.  
 * Discusses the recommendations the program can provide, such as reducing meat consumption, using public transportation, or switching to renewable energy sources.
 
 🎲 __Gamification Elements__
