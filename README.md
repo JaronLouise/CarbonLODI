@@ -1,18 +1,15 @@
 
 <p align="center">
-  <img src="https://openseauserdata.com/files/789252fba32d5b8fba2ada31c7494e85.gif" width="500px"/><br><br>
-   <img src="https://cdn.discordapp.com/attachments/1048446248274890764/1090452906676854935/AJKNDKANLD-1.png?fbclid=IwAR375VbPkiX4xkE3Em5QXE7dgA0EyWxoHw4paKdktEC-3ppjOtD3rDQ3dE0" width="300px"/>
+  <img src="https://cdn.discordapp.com/attachments/1048446248274890764/1090452906676854935/AJKNDKANLD-1.png?fbclid=IwAR375VbPkiX4xkE3Em5QXE7dgA0EyWxoHw4paKdktEC-3ppjOtD3rDQ3dE0" width="400px"/>
 </p>
 
 <h5 align="center"><code>Minimizing Your Environmental Impact</code></h5>
 
-<br><br><br>
-
-
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Django?color=red&logoColor=light%20red&style=for-the-badge) ![GitHub contributors](https://img.shields.io/github/contributors/JaronLouise/Carbon_LODI?color=blue&style=for-the-badge) ![GitHub last commit](https://img.shields.io/github/last-commit/JaronLouise/Carbon_LODI?style=for-the-badge)
 
 #
-<h3 align = "center"><img src="https://i.pinimg.com/originals/ee/9d/de/ee9dde88ff4949f5984bf108bdeea0bc.gif" width="90px"/> ABOUT <img src="https://i.pinimg.com/originals/ee/9d/de/ee9dde88ff4949f5984bf108bdeea0bc.gif" width="90px"/></h3>
+
+<h3 align = "center">📌 ABOUT 📌</h3>
 
 Carbon __L.O.D.I__ _stands for..._
 
@@ -29,15 +26,15 @@ Carbon __L.O.D.I__ _stands for..._
 <h3 align = "center">🖋 INRODUCTION 🖋</h3>
 
 <p align="justify">
-We all know that climate change is a distinctly alarming matter. As we live in a modern contemporary world, individuals, corporations, businesses, companies, and many more have ever-increasing greenhouse gasses. Reducing one's carbon footprint is one approach to lessen carbon emissions.
+Climate change refers to long-term shifts in temperatures and weather patterns, mainly caused by human activities, is a distinctly alarming matter. As we live in a modern contemporary world, individuals, corporations, businesses, industries, and many more have ever-increasing greenhouse gasses. It has caused increased heat, drought, and insect outbreaks. Thus, reducing one's carbon footprint and learning how to mitigate our actions are ways to lessen carbon emissions.
 </p>
 
 <p align="justify">
-To do this, one must track their carbon footprint and determine where one may make changes to lower their carbon emissions. People can better comprehend the effects of their everyday activities and lifestyle decisions by keeping track of their carbon footprint. They can then take action to lessen those effects. Thus, if we achieve a minimized carbon footprint and emissions, we firmly believe we can attain a more sustainable lifestyle alongside a more promising future.
+To do this, one must track their carbon footprint and determine where one can make changes to reduce their carbon emissions. People can better comprehend the effects of their everyday activities and lifestyle decisions to their environment by keeping track of their carbon footprint. They can then take action to lessen those effects. Thus, if we achieve a minimized carbon footprint, we firmly believe we can attain a more sustainable lifestyle alongside a more promising future.
 </p>
 
 <p align="justify">
-A carbon footprint calculator is measured in kilograms of carbon dioxide equivalents (CO2e). It contains standard features such as a calculator, which calculates the number of carbon emissions produced. The carbon footprint calculator requires the user to input their mode of transportation, energy usage, diet, consumption habits, and miscellaneous housings.
+A carbon footprint calculator is measured in kilograms of carbon dioxide equivalents (CO2e). It contains standard features such as a calculator--which calculates the number of carbon emissions produced. The carbon footprint calculator requires the user to input their mode of transportation, energy usage, diet, consumption habits, and miscellaneous housings.
 </p>
 
 
@@ -45,10 +42,9 @@ A carbon footprint calculator is measured in kilograms of carbon dioxide equival
 Moreover, the program offers suggestions regarding carbon offsetting and emissions reduction related to the user's previous inputs. Lastly, the carbon footprint calculator provides results and analysis to help people realize the impact of their carbon emissions and how they could take ethical steps for the environment.
 </p>
 
-#
 
 <h3 align="center">🔋 SIGNIFICANCE 🔋</h3>
-
+This program redound to benefit the society and the world itself given that it tracks one's carbon footprint and suggesting ways on how to minimize their carbon footprint. It may be a simple thing to do but if any global citizen can contribute to caring for the environment, our micro effort will have a marco effect to the world around us.
 #
 
 <h3 align="center">🚀 PROGRAM FEATURES 🚀</h3>
