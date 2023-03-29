@@ -29,7 +29,7 @@ Carbon __L.O.D.I__ _stands for:_
 
 #
 
-<h3 align = "center">🖋 INRODUCTION 🖋</h3>
+<h3 align = "center">📃 INRODUCTION 📃</h3>
 
 <p align="justify">
 Climate change refers to long-term shifts in temperatures and weather patterns, mainly caused by human activities, and is a distinctly alarming matter. As we live in a modern contemporary world, individuals, corporations, businesses, industries, and many more have ever-increasing greenhouse gasses. It has caused increased heat, drought, and insect outbreaks. Thus, reducing one's carbon footprint and learning to mitigate our actions are ways to lessen carbon emissions.
@@ -49,7 +49,7 @@ Moreover, the program offers suggestions regarding carbon offsetting and emissio
 </p>
 
 #
-<h3 align="center">🔋 SIGNIFICANCE 🔋 </h3>
+<h3 align="center">🎯 SIGNIFICANCE 🎯 </h3>
 
 <p align="justify">
 This program redounds to benefit society and the world itself, given that it tracks one's carbon footprint and suggests ways how to minimize their carbon footprint. It may be a simple thing to act upon, but if every global citizen can contribute to caring for the environment, one's micro effort will have a macro effect on the world around us.  
