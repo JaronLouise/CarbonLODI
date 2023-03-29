@@ -3,7 +3,9 @@
   <img src="https://cdn.discordapp.com/attachments/1048446248274890764/1090420243232464987/AJKNDKANLD.png" width="200px"/>
 </p>
 
-<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/JaronLouise/Carbon_Footprint_calculator?style=for-the-badge">  ![GitHub last commit](https://img.shields.io/github/last-commit/JaronLouise/Carbon_LODI?style=for-the-badge)
+<h5 align="center"><code>Minimizing Your Environmental Impact</code></h5>
+
+![GitHub contributors](https://img.shields.io/github/contributors/JaronLouise/Carbon_LODI?color=blue&style=for-the-badge) ![GitHub last commit](https://img.shields.io/github/last-commit/JaronLouise/Carbon_LODI?style=for-the-badge)
 
 #
 
