@@ -1,10 +1,13 @@
 
 <p align="center">
-  <img src="https://openseauserdata.com/files/789252fba32d5b8fba2ada31c7494e85.gif" width="500px"/><br>
+  <img src="https://openseauserdata.com/files/789252fba32d5b8fba2ada31c7494e85.gif" width="500px"/><br><br>
    <img src="https://cdn.discordapp.com/attachments/1048446248274890764/1090452906676854935/AJKNDKANLD-1.png?fbclid=IwAR375VbPkiX4xkE3Em5QXE7dgA0EyWxoHw4paKdktEC-3ppjOtD3rDQ3dE0" width="300px"/>
 </p>
 
 <h5 align="center"><code>Minimizing Your Environmental Impact</code></h5>
+
+<br><br><br>
+
 
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Django?color=red&logoColor=light%20red&style=for-the-badge) ![GitHub contributors](https://img.shields.io/github/contributors/JaronLouise/Carbon_LODI?color=blue&style=for-the-badge) ![GitHub last commit](https://img.shields.io/github/last-commit/JaronLouise/Carbon_LODI?style=for-the-badge)
 
