@@ -14,7 +14,7 @@
 
 #
 
-<h3 align = "center"> ABOUT </h3>
+<h3 align="center"><img src="https://media2.giphy.com/media/1UwHF7R67LzHi/200w.gif?cid=82a1493btzex7wnhz0sca8fwsiyfreh1ciro94jxyi3dcg7e&rid=200w.gif&ct=s" width="40px"/> ABOUT <img src="https://media2.giphy.com/media/1UwHF7R67LzHi/200w.gif?cid=82a1493btzex7wnhz0sca8fwsiyfreh1ciro94jxyi3dcg7e&rid=200w.gif&ct=s" width="40px"/>   </h3>
 
 Carbon __L.O.D.I__ _stands for..._
 
