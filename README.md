@@ -47,6 +47,7 @@ A carbon footprint calculator is measured in kilograms of carbon dioxide equival
 Moreover, the program offers suggestions regarding carbon offsetting and emissions reduction related to the user's previous inputs. Lastly, the carbon footprint calculator provides results and analysis to help people realize the impact of their carbon emissions and how they could take ethical steps for the environment.
 </p>
 
+#
 
 <h3 align="center"><img src="https://i.pinimg.com/originals/ee/9d/de/ee9dde88ff4949f5984bf108bdeea0bc.gif" width="90px"/> SIGNIFICANCE <img src="https://i.pinimg.com/originals/ee/9d/de/ee9dde88ff4949f5984bf108bdeea0bc.gif" width="90px"/>   </h3>
 
