@@ -3,7 +3,7 @@
   <img src="https://cdn.discordapp.com/attachments/1048446248274890764/1090420243232464987/AJKNDKANLD.png" width="200px"/>
 </p>
 
-<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/JaronLouise/Carbon_Footprint_calculator?style=for-the-badge">
+<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/JaronLouise/Carbon_Footprint_calculator?style=for-the-badge">  ![GitHub last commit](https://img.shields.io/github/last-commit/JaronLouise/Carbon_LODI?style=for-the-badge)
 
 #
 
