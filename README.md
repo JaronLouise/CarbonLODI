@@ -39,7 +39,7 @@ To do this, one must track their carbon footprint and determine where one can ma
 </p>
 
 <p align="justify">
-A carbon footprint calculator is measured in kilograms of carbon dioxide equivalents (CO2e). It contains standard features such as a calculator--which calculates the number of carbon emissions produced. The carbon footprint calculator requires the user to input their mode of transportation, energy usage, diet, consumption habits, and miscellaneous housings.
+A carbon footprint calculator is measured in kilograms of carbon dioxide equivalents (CO2e). It contains standard features such as a calculator--which calculates the number of carbon emissions produced. The carbon footprint calculator requires the user to input their mode of transportation, energy usage, diet, consumption habits, and miscellaneous housing factors.
 </p>
 
 
