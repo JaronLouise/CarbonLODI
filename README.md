@@ -81,7 +81,7 @@ This program will benefit the following:
 
 <p align="center">
 <picture>
-  <source srcset="https://cdn.discordapp.com/attachments/1048446248274890764/1090948675582308393/introduction-dark.png" media="(prefers-color-scheme: dark)">
+  <source srcset="https://cdn.discordapp.com/attachments/1048446248274890764/1090951701223198730/features-dark.png" media="(prefers-color-scheme: dark)">
   <img src="https://cdn.discordapp.com/attachments/1048446248274890764/1090948675850731630/introduction-light.png" alt="Program Features" height="35px">
 </picture>
 <br>
