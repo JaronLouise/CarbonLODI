@@ -35,7 +35,7 @@ Carbon __L.O.D.I__ _stands for:_
 
 <p align="center">
 <picture>
-  <source srcset="https://cdn.discordapp.com/attachments/1048446248274890764/1090944340572000316/about-dark.png" media="(prefers-color-scheme: dark)">
+  <source srcset="https://cdn.discordapp.com/attachments/1048446248274890764/1090947054689325086/introduction-dark.png" media="(prefers-color-scheme: dark)">
   <img src="https://cdn.discordapp.com/attachments/1048446248274890764/1090947054420893816/introduction-light.png" alt="Introduction" height="35px">
 </picture>
 <br>
