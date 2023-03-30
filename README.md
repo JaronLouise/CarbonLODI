@@ -9,7 +9,7 @@
 
 <br>
 
-![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Numpy?style=for-the-badge) ![GitHub contributors](https://img.shields.io/github/contributors/JaronLouise/Carbon_LODI?color=blue&style=for-the-badge) ![GitHub last commit](https://img.shields.io/github/last-commit/JaronLouise/Carbon_LODI?style=for-the-badge)
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Numpy?style=for-the-badge) ![GitHub contributors](https://img.shields.io/github/contributors/JaronLouise/Carbon_LODI?color=blue&style=for-the-badge) ![GitHub last commit](https://img.shields.io/github/last-commit/JaronLouise/CarbonLODI?color=blue&style=for-the-badge)
 
 #
 
