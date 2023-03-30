@@ -54,7 +54,7 @@ This program redounds to benefit society and the world itself, given that it tra
 
 This program will benefit the following: 
 
-🧑‍🎓 __Students.__ This program will aim for students to change their primary habits in their daily lives (such as eating less meat) to help make an impact.  
+👨‍🎓 __Students.__ This program will aim for students to change their primary habits in their daily lives (such as eating less meat) to help make an impact.  
 🏫 __Institution.__ This program will help the institution to monitor, regulate, and control the carbon footprint of each part of the institution.  
 🏢 __Administration.__ This program will help the administration to ensure emissions in a city or country do not exceed a designated carbon footprint limit.  
 </p>
