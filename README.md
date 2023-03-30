@@ -48,11 +48,6 @@ A carbon footprint calculator is measured in kilograms of carbon dioxide equival
 Moreover, the program offers suggestions regarding carbon offsetting and emissions reduction related to the user's previous inputs. Lastly, the carbon footprint calculator provides results and analysis to help people realize the impact of their carbon emissions and how they could take ethical steps for the environment.
 </p>
 
-
-<p align="center">
-  <img src="https://media.discordapp.net/attachments/1080008638476861512/1090889491100749865/car.gif?width=385&height=385" width="200px">
-</p>
-
 #
 <h3 align="center">🎯 SIGNIFICANCE 🎯 </h3>
 
@@ -99,6 +94,12 @@ __ARQUILLO__, Jaron Louise
 __BRIONES__, Sean Kyron   
 __MARANAN__, Deogenes_
 #
+
+
+<p align="center">
+  <img src="https://media.discordapp.net/attachments/1080008638476861512/1090889491100749865/car.gif?width=385&height=385" width="200px">
+</p>
+
 
 ##### NOTE: This section is still in development and will improve as the the project progresses, instructions on how to use the program and the recommended version will be updated accordingly. 
 #
