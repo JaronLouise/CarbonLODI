@@ -16,7 +16,7 @@
 <p align="center">
 <picture>
   <source srcset="https://cdn.discordapp.com/attachments/1048446248274890764/1090944340572000316/about-dark.png" media="(prefers-color-scheme: dark)">
-  <img src="https://cdn.discordapp.com/attachments/1048446248274890764/1090944340773310484/about-light.png" alt="About" width="300px">
+  <img src="https://cdn.discordapp.com/attachments/1048446248274890764/1090944340773310484/about-light.png" alt="About" width="250px">
 </picture>
 <br>
 </p>
