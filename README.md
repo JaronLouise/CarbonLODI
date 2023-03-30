@@ -16,7 +16,7 @@
 <p align="center">
 <picture>
   <source srcset="https://cdn.discordapp.com/attachments/1048446248274890764/1090944340572000316/about-dark.png" media="(prefers-color-scheme: dark)">
-  <img src="https://cdn.discordapp.com/attachments/1048446248274890764/1090944340773310484/about-light.png" alt="About" height="25px">
+  <img src="https://cdn.discordapp.com/attachments/1048446248274890764/1090944340773310484/about-light.png" alt="About" height="35px">
 </picture>
 <br>
 </p>
@@ -36,7 +36,7 @@ Carbon __L.O.D.I__ _stands for:_
 <p align="center">
 <picture>
   <source srcset="https://cdn.discordapp.com/attachments/1048446248274890764/1090944340572000316/about-dark.png" media="(prefers-color-scheme: dark)">
-  <img src="https://cdn.discordapp.com/attachments/1048446248274890764/1090947054420893816/introduction-light.png" alt="Introduction" height="50px">
+  <img src="https://cdn.discordapp.com/attachments/1048446248274890764/1090947054420893816/introduction-light.png" alt="Introduction" height="35px">
 </picture>
 <br>
 </p>
