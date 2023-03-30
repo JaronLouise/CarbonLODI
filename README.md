@@ -62,7 +62,7 @@ Moreover, the program offers suggestions regarding carbon offsetting and emissio
 </p>
 
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/1080008638476861512/1090889491100749865/car.gif?width=385&height=385" width="200px">
+  <img src="https://media.discordapp.net/attachments/1080008638476861512/1090889491100749865/car.gif?width=385&height=385" width="180px">
 </p>
 
 #
