@@ -79,7 +79,13 @@ This program will benefit the following:
 
 #
 
-<h3 align="center">🚀 PROGRAM FEATURES 🚀</h3>
+<p align="center">
+<picture>
+  <source srcset="https://cdn.discordapp.com/attachments/1048446248274890764/1090948675582308393/introduction-dark.png" media="(prefers-color-scheme: dark)">
+  <img src="https://cdn.discordapp.com/attachments/1048446248274890764/1090948675850731630/introduction-light.png" alt="Program Features" height="35px">
+</picture>
+<br>
+</p>
 
 🧮 __Carbon Footprint Calculator__
 * Describes the carbon footprint calculator feature and calculates the user's carbon footprint based on their lifestyle.  
