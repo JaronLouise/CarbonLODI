@@ -31,9 +31,6 @@ Carbon __L.O.D.I__ _stands for:_
 
 ✔️ __Indexing__ and monitoring carbon emissions.
 
-<p align="center">
-  <img src="https://media.discordapp.net/attachments/1080008638476861512/1090948347155714139/f_a_c.gif?width=200&height=192" width="120px">
-</p>
 #
 
 <p align="center">
@@ -62,7 +59,13 @@ Moreover, the program offers suggestions regarding carbon offsetting and emissio
 
 #
 
-<h3 align="center">🎯 SIGNIFICANCE 🎯 </h3>
+<p align="center">
+<picture>
+  <source srcset="https://cdn.discordapp.com/attachments/1048446248274890764/1090944340572000316/about-dark.png" media="(prefers-color-scheme: dark)">
+  <img src="https://cdn.discordapp.com/attachments/1048446248274890764/1090950193526079599/significance-light.png" alt="Significance" height="35px">
+</picture>
+<br>
+</p>
 
 <p align="justify">
 This program redounds to benefit society and the world itself, given that it tracks one's carbon footprint and suggests ways how to minimize their carbon footprint. It may be a simple thing to act upon, but if every global citizen can contribute to caring for the environment, one's micro effort will have a macro effect on the world around us.  
@@ -105,7 +108,7 @@ __MARANAN__, Deogenes Gregorio S._
 #
 
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/1080008638476861512/1090889491100749865/car.gif?width=385&height=385" width="150px">
+  <img src="https://media.discordapp.net/attachments/1080008638476861512/1090889491100749865/car.gif?width=385&height=385" width="200px">
 </p>
 
 
