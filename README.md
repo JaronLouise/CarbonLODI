@@ -97,7 +97,7 @@ This program will benefit the following:
 ___ALIMAGNO__, Timothy Dave C.   
 __ARQUILLO__, Jaron Louise   
 __BRIONES__, Sean Kyron   
-__MARANAN__, Deogenes_
+__MARANAN__, Deogenes Gregorio S.
 
 #
 
