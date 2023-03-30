@@ -31,6 +31,10 @@ Carbon __L.O.D.I__ _stands for:_
 
 ✔️ __Indexing__ and monitoring carbon emissions.
 
+<p align="center">
+  <img src="https://media.discordapp.net/attachments/1080008638476861512/1090948347155714139/f_a_c.gif?width=200&height=192" width="150px">
+</p>
+
 #
 
 <p align="center">
