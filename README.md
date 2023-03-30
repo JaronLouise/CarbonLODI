@@ -16,7 +16,7 @@
 <p align="center">
 <picture>
   <source srcset="https://cdn.discordapp.com/attachments/1048446248274890764/1090944340572000316/about-dark.png" media="(prefers-color-scheme: dark)">
-  <img src="https://cdn.discordapp.com/attachments/1048446248274890764/1090944340773310484/about-light.png" alt="About" width="250px">
+  <img src="https://cdn.discordapp.com/attachments/1048446248274890764/1090944340773310484/about-light.png" alt="About" height="100px">
 </picture>
 <br>
 </p>
@@ -33,7 +33,13 @@ Carbon __L.O.D.I__ _stands for:_
 
 #
 
-<h3 align = "center">📃 INRODUCTION 📃</h3>
+<p align="center">
+<picture>
+  <source srcset="https://cdn.discordapp.com/attachments/1048446248274890764/1090944340572000316/about-dark.png" media="(prefers-color-scheme: dark)">
+  <img src="https://cdn.discordapp.com/attachments/1048446248274890764/1090947054420893816/introduction-light.png" alt="Inroduction" height="100px">
+</picture>
+<br>
+</p>
 
 <p align="justify">
 Climate change refers to long-term shifts in temperatures and weather patterns, mainly caused by human activities, and is a distinctly alarming matter. As we live in a modern contemporary world, individuals, corporations, businesses, industries, and many more have ever-increasing greenhouse gasses. It has caused increased heat, drought, and insect outbreaks. Thus, reducing one's carbon footprint and learning to mitigate our actions are ways to lessen carbon emissions.
