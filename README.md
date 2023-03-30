@@ -16,7 +16,7 @@
 <p align="center">
 <picture>
   <source srcset="https://cdn.discordapp.com/attachments/1048446248274890764/1090944340572000316/about-dark.png" media="(prefers-color-scheme: dark)">
-  <img src="https://cdn.discordapp.com/attachments/1048446248274890764/1090512762448392271/try.png" alt="CarbonLODI-logo" width="100px">
+  <img src="https://cdn.discordapp.com/attachments/1048446248274890764/1090512762448392271/try.png" alt="CarbonLODI-logo" width="300px">
 </picture>
 <br>
 </p>
