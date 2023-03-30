@@ -61,7 +61,7 @@ Moreover, the program offers suggestions regarding carbon offsetting and emissio
 
 <p align="center">
 <picture>
-  <source srcset="https://cdn.discordapp.com/attachments/1048446248274890764/1090944340572000316/about-dark.png" media="(prefers-color-scheme: dark)">
+  <source srcset="https://cdn.discordapp.com/attachments/1048446248274890764/1090950193773563987/significance-dark.png" media="(prefers-color-scheme: dark)">
   <img src="https://cdn.discordapp.com/attachments/1048446248274890764/1090950193526079599/significance-light.png" alt="Significance" height="35px">
 </picture>
 <br>
