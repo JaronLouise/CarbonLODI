@@ -160,64 +160,6 @@ def get_diet(self):
         self.seafood_consumption, self.meat_source, self.dairy_source, self.grain_source, \
         self.fruit_veg_source, self.seafood_source
 
-
-# class Clothing:
-#     def __init__(self, material, source, manufacturing_location, transportation_method, transportation_distance):
-#         self.material = material
-#         self.source = source
-#         self.manufacturing_location = manufacturing_location
-#         self.transportation_method = transportation_method
-#         self.transportation_distance = transportation_distance
-#
-#     def calculate_carbon_emissions(self):
-#         material_emissions = self.get_material_emissions()
-#         manufacturing_emissions = self.get_manufacturing_emissions()
-#         transportation_emissions = self.get_transportation_emissions()
-#         total_emissions = material_emissions + manufacturing_emissions + transportation_emissions
-#         return total_emissions
-#
-#     def get_material_emissions(self):
-#         if self.material == "cotton":
-#             return 4.4  # kgCO2eq/kg of cotton
-#         elif self.material == "polyester":
-#             return 7.4  # kgCO2eq/kg of polyester
-#         elif self.material == "wool":
-#             return 15.2  # kgCO2eq/kg of wool
-#         elif self.material == "nylon":
-#             return 5.5  # kgCO2eq/kg of nylon
-#         else:
-#             return 0
-#
-#     def get_manufacturing_emissions(self):
-#         if self.manufacturing_location == "USA":
-#             return 3.6  # kgCO2eq/kg for manufacturing in the USA
-#         elif self.manufacturing_location == "China":
-#             return 7.8  # kgCO2eq/kg for manufacturing in China
-#         elif self.manufacturing_location == "India":
-#             return 4.9  # kgCO2eq/kg for manufacturing in India
-#         else:
-#             return 0
-#
-#     def get_transportation_emissions(self):
-#         if self.transportation_method == "truck":
-#             if self.transportation_distance < 100:
-#                 return 0.13  # kgCO2eq/kg-km for truck transportation < 100 km
-#             elif self.transportation_distance < 500:
-#                 return 0.08  # kgCO2eq/kg-km for truck transportation < 500 km
-#             else:
-#                 return 0.05  # kgCO2eq/kg-km for truck transportation >= 500 km
-#         elif self.transportation_method == "ship":
-#             if self.source == "domestic":
-#                 return 0.01  # kgCO2eq/kg-km for domestic shipping
-#             else:
-#                 return 0.005  # kgCO2eq/kg-km for international shipping
-#         elif self.transportation_method == "air":
-#             return 0.57  # kgCO2eq/kg-km for air transportation
-#         else:
-#             return 0
-
-#needs error handling
-
 def main():
     # Collecting user input for transportation
     transport_type = input("What mode of transportation did you use? (car, train, bus, motorcycle, tricycle, walking, cycling): ")
